@@ -1,0 +1,16 @@
+.cart-checkout {
+  flex-basis: 29%;
+  flex-grow: 1;
+}
+
+.cart-checkout > header {
+  padding: 0.45rem 0.65rem;
+}
+
+.cart-checkout > section {
+  margin: 0 0.75rem;
+}
+
+.checkout-btn {
+  margin: 0.2rem 0.6rem 0.45rem;
+}

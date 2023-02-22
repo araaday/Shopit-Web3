@@ -1,0 +1,17 @@
+.events-header {
+  background: var(--bg-gradient);
+  background-clip: text;
+  border-image: var(--info-gradient) 1;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.addEvent {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.addButton {
+  bottom: 2%;
+  right: 1%;
+}

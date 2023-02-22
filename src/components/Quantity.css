@@ -1,0 +1,23 @@
+.q-picker {
+  height: 45px;
+}
+
+.q-decrement-label {
+  bottom: 100%;
+}
+
+.quantity {
+  /* background-color: #fff7f0; */
+  background-color: transparent;
+  color: var(--txt-grey);
+  width: 100px;
+}
+
+.quantity-btn {
+  background-color: transparent;
+  color: var(--txt-grey);
+}
+
+.quantity::-webkit-inner-spin-button {
+  display: none;
+}

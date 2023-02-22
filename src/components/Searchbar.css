@@ -1,0 +1,73 @@
+.searchbar {
+  border-bottom: 1px solid;
+  border-image: var(--search-gradient) 1;
+  margin-left: 0.5rem;
+  width: 35%;
+  transition: 0.42s;
+}
+
+.searchbar:hover {
+  width: 42%;
+  transition: 0.35s;
+}
+
+.searchbar.focus {
+  width: 75%;
+  transition: 0.5s;
+}
+
+.searchbar > label {
+  background-clip: text;
+  background-image: var(--search-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.searchbar input {
+  color: inherit;
+  height: 36px;
+  outline: none;
+  text-overflow: ellipsis;
+}
+
+.searchbar .results {
+  display: none;
+  right: 50%;
+}
+
+.searchbar.focus .results,
+.searchbar:hover .results {
+  display: block;
+}
+
+.searchbar:hover .results {
+  opacity: 0.9;
+}
+
+.searchbar .results > * {
+  border: 0 solid var(--bs-border-color);
+  border-width: 1px;
+  display: flex;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.searchbar > .overborder {
+  background-color: #fff;
+  height: 0.1px;
+  transition: 0.42s;
+}
+
+.searchbar:hover > .overborder,
+.searchbar.focus > .overborder {
+  background-color: #fff0;
+}
+
+.searchbar:hover > .overborder {
+  transition: 0.35s;
+}
+
+.searchbar.focus > .overborder {
+  transition: 0.5s;
+}

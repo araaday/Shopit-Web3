@@ -1,0 +1,11 @@
+.rightcontainer {
+  padding-right: 4rem;
+}
+
+#list-item-price-input {
+  width: 6.4ch;
+}
+
+#list-item-price-input::-webkit-inner-spin-button {
+  display: none;
+}

@@ -1,0 +1,8 @@
+#cart-total {
+  background-color: var(--accent-1);
+  bottom: 4px;
+  height: 3ch;
+  font-size: xx-small;
+  left: 65%;
+  width: 3ch;
+}

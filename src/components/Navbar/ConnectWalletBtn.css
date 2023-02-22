@@ -1,0 +1,14 @@
+:root {
+  --primary: white;
+}
+
+.connect-wallet-btn {
+  background-color: #f0f0f0;
+  gap: 6px;
+  padding: 9px 20px;
+  transition: 0.35s all linear;
+}
+
+.connect-wallet-btn:hover {
+  background-color: #ddd;
+}

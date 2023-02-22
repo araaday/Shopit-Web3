@@ -1,0 +1,66 @@
+{
+  "name": "shopit",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@multiformats/blake2": "^1.0.11",
+    "browser-image-manipulation": "^0.4.0",
+    "ethereum-blockies": "^0.1.1",
+    "ethers": "^5.7.1",
+    "frostcolor": "^3.0.3",
+    "ipfs-core": "^0.17.0",
+    "multiformats": "^10.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-is": "^18.2.0",
+    "react-router-dom": "^6.4.1",
+    "react-scripts": "5.0.1",
+    "react-use-cart": "^1.13.0",
+    "styled-components": "^5.3.6"
+  },
+  "scripts": {
+    "lint": "prettier --cache --loglevel silent --ignore-path .gitignore --write \"**/*.{css,html,js,json,md}\"",
+    "postinstall": "husky install",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/ethereum-blockies": "^0.1.0",
+    "@types/node": "^18.11.3",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "commitizen": "^4.2.5",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.1",
+    "prettier": "^2.7.1",
+    "serve": "^14.0.1",
+    "typescript": "^4.8.4"
+  },
+  "resolutions": {
+    "minimatch": "^3.0.5",
+    "nth-check": "^2.0.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
+}

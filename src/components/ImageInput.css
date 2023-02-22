@@ -1,0 +1,33 @@
+.image-input {
+  width: fit-content;
+  height: fit-content;
+}
+
+.image-input-img {
+  opacity: 0;
+}
+
+.image-input-label {
+  color: var(--dark);
+  font-size: 3.5vw;
+}
+
+.imaged-input > .image-input-img {
+  opacity: 1;
+}
+
+.imaged-input > .image-input-label {
+  backdrop-filter: blur(0.5px);
+  background-image: radial-gradient(
+    rgba(var(--bs-dark-rgb), 0.6) 15%,
+    30%,
+    rgba(var(--bs-light-rgb), 0.05)
+  );
+  color: var(--light);
+  opacity: 0;
+}
+
+.imaged-input > .image-input-label:hover {
+  opacity: 1;
+  transition: 0.25s ease-out;
+}

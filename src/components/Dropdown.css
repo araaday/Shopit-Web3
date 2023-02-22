@@ -1,0 +1,37 @@
+.shopit-dropdown {
+  gap: 0.5rem 1.2rem;
+  padding: 0.8rem 1.4rem;
+}
+
+.shopit-dropdown > label {
+  color: #333;
+  cursor: pointer;
+}
+
+.shopit-dropdown > input:checked ~ label,
+.shopit-dropdown > label:hover {
+  color: #191917;
+}
+
+.shopit-dropdown > input:checked ~ label > i {
+  rotate: 180deg;
+  transition: 0.21s;
+}
+
+.shopit-dropdown > .content {
+  background: rgb(246, 246, 246);
+  line-height: 0;
+  overflow: hidden;
+  margin: 0;
+  padding: 0 0.65rem;
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.21s;
+}
+
+.shopit-dropdown > input:checked ~ .content {
+  line-height: 1.5;
+  height: auto;
+  margin-bottom: 0.35rem;
+  padding: 0.35rem 0.65rem;
+  transition-duration: 0.5s;
+}

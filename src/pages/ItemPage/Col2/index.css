@@ -1,0 +1,7 @@
+.rightcontainer {
+  padding-right: 4rem;
+}
+
+.rightcontainer > h2 {
+  color: var(--pri);
+}

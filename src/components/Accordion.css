@@ -1,0 +1,6 @@
+.accordion {
+  --bs-accordion-active-bg: rgba(var(--bs-primary-rgb), 0.075);
+  --bs-accordion-active-color: var(--pri);
+  --bs-accordion-bg: var(--light);
+  --bs-accordion-btn-color: var(--txt-grey);
+}

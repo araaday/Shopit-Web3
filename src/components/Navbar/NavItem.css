@@ -1,0 +1,7 @@
+#navbar .nav-link {
+  color: var(--sec);
+}
+
+#navbar .nav-link:hover {
+  color: var(--light);
+}

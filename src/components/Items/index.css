@@ -1,0 +1,10 @@
+.items {
+  margin-left: 3.75rem;
+  margin-right: 3.75rem;
+}
+
+.title-underline {
+  padding-bottom: 1rem;
+  border-bottom: 5px solid rgba(var(--bs-primary-rgb), 0.9);
+  color: var(--txt-dark);
+}

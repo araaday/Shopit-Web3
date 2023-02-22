@@ -1,0 +1,14 @@
+.confirmation-btn {
+  color: #534f4f;
+  border-radius: 32px;
+  font-size: 20px;
+  padding: 5px 20px;
+}
+
+.confirmed {
+  background-color: #daf9ec;
+}
+
+.unconfirmed {
+  background-color: #fecaca;
+}

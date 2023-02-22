@@ -1,0 +1,36 @@
+.added {
+  display: inline;
+  animation: added 1s 1 linear forwards;
+}
+.added + .add-to-cart {
+  display: none;
+}
+.add-to-cart {
+  animation: add-to-cart 0.125s 1 ease-out forwards;
+}
+
+@keyframes added {
+  0%,
+  100% {
+    opacity: 0.5;
+    filter: blur(0.5rem);
+  }
+
+  21%,
+  85% {
+    filter: blur(0);
+    opacity: 1;
+  }
+}
+
+@keyframes add-to-cart {
+  from {
+    filter: blur(0.35rem);
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+    filter: blur(0);
+  }
+}

@@ -1,0 +1,4 @@
+.carousel-caption {
+  background-color: rgba(var(--bs-dark-rgb), 0.5);
+  backdrop-filter: blur(1px);
+}

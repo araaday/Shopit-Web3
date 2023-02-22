@@ -1,0 +1,8 @@
+.shopit-event {
+  inline-size: 224px;
+  overflow-wrap: break-word;
+}
+
+.shopit-event-img {
+  aspect-ratio: 3/4;
+}

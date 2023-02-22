@@ -1,0 +1,115 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Nike 20% off all products",
+      "img": "https://static.nike.com/a/images/f_jpg,q_auto:eco/61b4738b-e1e1-4786-8f6c-26aa0008e80b/swoosh-logo-black.png",
+      "jumbotron": "https://cdn.discordapp.com/attachments/990908335723274285/1036879240345419776/unknown.png",
+      "description": "Nike 20% off all products",
+      "criteria": [
+        {
+          "brand": "Nike",
+          "condition": "Own ANY new Nike Zoom shoes NFT to be eligble",
+          "met": true
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "BlackPink VIP Access",
+      "img": "https://res.klook.com/image/upload/v1660279938/omdcdhrgkihberr1ymvl.jpg",
+      "jumbotron": "https://res.klook.com/image/upload/v1660279938/omdcdhrgkihberr1ymvl.jpg",
+      "description": "The K-pop fabulous foursome comprising Jisoo, Jennie, Rose and Lisa, will be perform at Singapore's National Stadium on May 13, 2023. Get free VIP tickets and special access to the Famous Korean Pop Band 'BlackPink' with special VIP access.",
+      "criteria": [
+        {
+          "brand": "Nike",
+          "condition": "Own ANY new Nike Zoom shoes NFT to be eligble",
+          "met": true
+        },
+        {
+          "brand": "Charles & Keith",
+          "condition": "Own ANY Charles & Keith wallet NFT to be eligble",
+          "met": true
+        },
+        {
+          "brand": "Zara",
+          "condition": "Own Under Armour Clothing NFT to be eligble",
+          "met": true
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Alan Walk Concert Pass",
+      "img": "https://images.pexels.com/photos/12262167/pexels-photo-12262167.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "jumbotron": "https://images.pexels.com/photos/12262167/pexels-photo-12262167.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Alan Walk Concert Pass",
+      "criteria": []
+    },
+    {
+      "name": "Zara 5% off on all outlets",
+      "id": "4",
+      "img": "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+      "jumbotron": "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+      "description": "Zara 5% off on all outlets",
+      "criteria": [
+        {
+          "brand": "Zara",
+          "condition": "Own Under Armour Clothing NFT to be eligble",
+          "met": true
+        },
+        {
+          "brand": "Zara",
+          "condition": "Own Adidas Sports Apparel NFT to be eligble",
+          "met": false
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Spotify Marathon Pass",
+      "img": "https://images.pexels.com/photos/2982100/pexels-photo-2982100.jpeg?auto=compress&cs=tinysrgb&w=1600.png",
+      "description": "Dog cap",
+      "criteria": []
+    },
+    {
+      "id": "6",
+      "name": "Free Apple watch ",
+      "img": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MPH73ref_VW_34FR+watch-45-alum-starlight-nc-8s_VW_34FR_WF_CO_GEO_SG+watch-face-44-nike-se-coconutmilk-sesame_VW_34FR_WF_CO?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660757977262%2C1661970344105%2C1661719938083",
+      "jumbotron": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MPH73ref_VW_34FR+watch-45-alum-starlight-nc-8s_VW_34FR_WF_CO_GEO_SG+watch-face-44-nike-se-coconutmilk-sesame_VW_34FR_WF_CO?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660757977262%2C1661970344105%2C1661719938083",
+      "description": "Free Apple watch ",
+      "criteria": []
+    },
+    {
+      "id": "7",
+      "name": "1 month Book subscription",
+      "img": "https://images.pexels.com/photos/1926988/pexels-photo-1926988.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "jumbotron": "https://images.pexels.com/photos/1926988/pexels-photo-1926988.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Book subscriptions offer a convenient way to get your hands on new reading material by making sure a curated collection of books gets delivered to your doorstep on a regular basis. What’s more, in light of the pandemic, books received in this way are more hygienic and almost certain to be virus-free.",
+      "criteria": []
+    },
+    {
+      "id": "8",
+      "name": "Free Dinner at Jackson Place",
+      "img": "https://images.pexels.com/photos/14017961/pexels-photo-14017961.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "Dog cap",
+      "criteria": []
+    },
+    {
+      "id": "9",
+      "name": "Ticket to Japan for 2",
+      "img": "https://images.pexels.com/photos/12930992/pexels-photo-12930992.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+      "jumbotron": "https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+      "description": "Dog cap",
+      "criteria": []
+    },
+    {
+      "id": "10",
+      "name": "70% of suzzies Waffles ",
+      "img": "https://images.pexels.com/photos/3023740/pexels-photo-3023740.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "jumbotron": "https://images.pexels.com/photos/3023740/pexels-photo-3023740.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Dog cap",
+      "criteria": []
+    }
+  ]
+}
