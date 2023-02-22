@@ -9,6 +9,10 @@
 2. Install dependencies: `yarn install`
 3. Start [React][react] dev server: `yarn start`
 
+## Install metamask
+
+1. https://metamask.io/
+
 
 ## Other Scripts
 
