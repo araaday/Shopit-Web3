@@ -15,7 +15,7 @@ https://metamask.io/
 
 ----------------
 
-## Developed for hackathon using Klaytn Blockchain
+## Developed for hackathon on the Klaytn Blockchain
 
 
 
