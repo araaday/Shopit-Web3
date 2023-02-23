@@ -11,9 +11,11 @@ https://web3shopit.netlify.app
 
 ## Install metamask
 
-1. https://metamask.io/
+https://metamask.io/
 
 --------------------
+[home](https://github.com/bringitbackalive/Shopit/blob/main/public/images/home.jpg)
+
 
 
 ## Other Scripts
@@ -27,3 +29,5 @@ https://web3shopit.netlify.app
 [prettier]: https://prettier.io
 [react]: https://reactjs.org
 [yarn]: https://yarnpkg.com
+
+
