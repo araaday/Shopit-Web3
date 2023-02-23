@@ -4,7 +4,9 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)][commitizen]
 
 -------------------------
-Netlify link - https://web3shopit.netlify.app
+## Netlify
+
+https://web3shopit.netlify.app
 
 
 ## Install metamask
