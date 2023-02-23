@@ -13,7 +13,9 @@ https://web3shopit.netlify.app
 
 https://metamask.io/
 
+----------------
 
+## Developed for hackathon using Klaytn Blockchain
 
 
 
