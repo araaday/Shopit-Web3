@@ -5,6 +5,8 @@
 
 ## Setup Instructions
 
+Netlify link -(https://web3shopit.netlify.app)
+
 1. Clone: `git clone https://github.com/it-foundation/shopit`
 2. Install dependencies: `yarn install`
 3. Start [React][react] dev server: `yarn start`
