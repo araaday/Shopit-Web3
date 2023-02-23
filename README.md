@@ -13,8 +13,7 @@ https://web3shopit.netlify.app
 
 https://metamask.io/
 
---------------------
-[home](https://github.com/bringitbackalive/Shopit/blob/main/public/images/home.jpg)
+
 
 
 
