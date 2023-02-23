@@ -19,16 +19,3 @@ https://metamask.io/
 
 
 
-## Other Scripts
-
-| Script | Purpose                                                                            |
-| ------ | ---------------------------------------------------------------------------------- |
-| `lint` | Lint files using [Prettier][prettier] (Automatically run by **.husky/pre-commit**) |
-
-[commitizen]: https://commitizen-tools.github.io/commitizen
-[husky]: https://typicode.github.io/husky
-[prettier]: https://prettier.io
-[react]: https://reactjs.org
-[yarn]: https://yarnpkg.com
-
-
